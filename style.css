@@ -1,0 +1,30 @@
+header{
+	background-color:black;
+}
+
+footer{
+	position:fixed;
+	border: 2px solid black;
+	bottom:0px;	
+	left:0px;
+	right:0px;
+	height:5%;
+	background-color:black;
+	text-align:center;
+}
+footer p{
+	color:white;
+}
+
+footer p:hover{
+	color:orange;
+}
+
+.nav-link{
+	color:white;
+	font-size:24px;
+}
+
+.nav-link:hover{
+	color:orange;
+}
